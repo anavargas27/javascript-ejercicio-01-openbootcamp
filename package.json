@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio-01",
+  "version": "1.0.0",
+  "description": "openbuutcamp primer ejercicio javascript",
+  "main": "ejercicio-01.js",
+  "scripts": {
+    "saludo":"Hola este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejercicio",
+    "js",
+    "01"
+  ],
+  "author": "Ana Vargas",
+  "license": "ISC"
+}
